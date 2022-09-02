@@ -1,1 +1,1 @@
-firsy delete
+first di5rectory delete
