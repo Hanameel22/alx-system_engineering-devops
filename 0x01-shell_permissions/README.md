@@ -1,1 +1,1 @@
-mutiple
+every
