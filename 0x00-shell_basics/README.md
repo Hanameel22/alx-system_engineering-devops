@@ -1,1 +1,1 @@
-File types
+Sybolic Link
