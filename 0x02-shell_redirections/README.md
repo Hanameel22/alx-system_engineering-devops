@@ -1,1 +1,1 @@
-trie
+all
