@@ -1,1 +1,1 @@
-shell init
+Gry
